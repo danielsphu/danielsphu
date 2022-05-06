@@ -9,6 +9,8 @@
 
 <p>
   I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like HTML/CSS/JS, ReactJS, NodeJS, Express and MongoDB. 
+  
+  Currently working through a couple of full-stack development projects, might upload when I think they're ready &#128512;
 </p>
 
 **Languages and Tools:**  
