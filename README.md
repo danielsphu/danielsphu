@@ -6,7 +6,7 @@
 <h2 align="center">Hi there 👋, I'm Daniel!</h2>
 
 <p>
-  I'm a low-code application developer, currently working on a a few small web development projects, learning lots, and having fun with a bit of tinkering here and there.
+  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like ReactJS, NodeJS, Express and MongoDB. 
 </p>
 
 ## Repos
