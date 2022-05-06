@@ -8,7 +8,7 @@
 ## About Me
 
 <p>
-  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like ReactJS, NodeJS, Express and MongoDB. 
+  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like HTML/CSS/JS, ReactJS, NodeJS, Express and MongoDB. 
 </p>
 
 ## Repos
@@ -18,8 +18,6 @@
 [![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
 [![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
-
-
 
 **Languages and Tools:**  
 
