@@ -5,6 +5,8 @@
 </p>  
 <h2 align="center">Hello World 👋, I'm Daniel!</h2>
 
+## About Me
+
 <p>
   I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like ReactJS, NodeJS, Express and MongoDB. 
 </p>
@@ -30,6 +32,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-
-
-![](https://komarev.com/ghpvc/?username=shinokada)
