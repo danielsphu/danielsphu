@@ -13,7 +13,7 @@
   Currently working through a couple of full-stack development projects, might upload when I think they're ready &#128512;
 </p>
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <code><img src="https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg" alt="C++" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
