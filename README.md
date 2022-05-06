@@ -11,14 +11,6 @@
   I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like HTML/CSS/JS, ReactJS, NodeJS, Express and MongoDB. 
 </p>
 
-## Repos
-
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
-
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
-
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
-
 **Languages and Tools:**  
 
 <code><img src="https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg" alt="C++" width="40" height="40"/></code>
