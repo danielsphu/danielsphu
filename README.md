@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Aspiring+full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src=""C:\Users\Daniel Hu\Downloads\Portfolio\react-portfolio\src\assets\images\logo-d.png"" />
+  <img width="92" src="C:\Users\Daniel Hu\Downloads\Portfolio\react-portfolio\src\assets\images\logo-d.png" />
 </p>  
 <h2 align="center">Hello World 👋, I'm Daniel!</h2>
 
