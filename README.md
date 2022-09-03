@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Aspiring+full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+  <img width="92" src=""C:\Users\Daniel Hu\Downloads\Portfolio\react-portfolio\src\assets\images\logo-d.png"" />
 </p>  
 <h2 align="center">Hello World 👋, I'm Daniel!</h2>
 
 ## About Me
 
 <p>
-  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. Currently working as a low-code application developer with technologies like Appian and Power Apps, while learning some more conventional web development technologies on the side like HTML/CSS/JS, ReactJS, NodeJS, Express and MongoDB. 
+  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. In my past internship, I worked as a software developer building web pages in C#/.NET and SQL server as well as low-code technologies like Power Apps. I also have experience building MERN (MongoDB, ExpressJS, ReactJS, NodeJS) applications with projects I've built in my free time to learn. 
   
-  Currently working through a couple of full-stack development projects, might upload when I think they're ready &#128512;
+   &#128512;
 </p>
 
 ## Languages and Tools:
