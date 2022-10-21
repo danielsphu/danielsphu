@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Daniel+Hu+-+Full-Stack+Developer!++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">Hello World 👋, I'm Daniel!</h2>
 
