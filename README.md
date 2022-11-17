@@ -5,7 +5,7 @@
 ## About Me
 
 <p>
-  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. In my past internship, I worked as a software developer building web pages in C#/.NET and SQL server as well as low-code technologies like Power Apps. I also have experience building MERN (MongoDB, ExpressJS, ReactJS, NodeJS) applications with projects I've built in my free time to learn. 
+  I'm software engineering student who is passionate about making an impact with my ideas, creating technology to elevate people, and building community. In my past internship, I worked as a software developer building web pages in C#/.NET and SQL server as well as low-code technologies like Power Apps. I also have experience building MERN (MongoDB, ExpressJS, ReactJS, NodeJS) applications at my current position with AdMass as a software developer, as well as with projects I've built in my free time.
   
    &#128512;
 </p>
